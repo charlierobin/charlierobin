@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well this is nice ... Welcome to my GitHub playground. Giving stuff away for free since whenever ... 😄
 
 <!--
 **charlierobin/charlierobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
