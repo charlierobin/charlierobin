@@ -1,6 +1,4 @@
-### Well this is cosy ... Welcome to my GitHub playground. Giving stuff away for free since whenever ... 😄
-
-https://user-images.githubusercontent.com/10506323/215327442-1881a133-0506-48fc-9a83-4c0f49dd6c2b.mp4
+### Well this is cosy ... Welcome to the GitHub playground. Giving stuff away for free since whenever ...
 
 <!--
 **charlierobin/charlierobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
