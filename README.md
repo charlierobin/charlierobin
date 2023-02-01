@@ -1,4 +1,4 @@
-### Well this is cosy ... Welcome to the GitHub playground. Giving stuff away for free since whenever ...
+### Well this is cosy ... Welcome to the GitHub playground.
 
 <!--
 **charlierobin/charlierobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
