@@ -1,5 +1,5 @@
-### Well this is cosy ... Welcome to the GitHub playground.
+### Well, this is cosy ... Welcome to my GitHub playground
 
-![loop](https://github.com/charlierobin/charlierobin/assets/10506323/9e8357bb-301f-44b9-9206-5ad3924d720a)
+![loop](https://github.com/charlierobin/charlierobin/assets/10506323/75b5d861-182c-40e7-a8c4-4028be80ef47)
 
 charlierobin@protonmail.com
