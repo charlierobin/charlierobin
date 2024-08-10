@@ -1,6 +1,6 @@
 ### Well, this is cosy … Welcome to my GitHub playground and general software skunkworks …
 
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/8bdd3150-847d-49e0-a106-771dfea0eed1)" width="48">
+![skunkworks white border](https://github.com/user-attachments/assets/4bb7b537-96ab-498d-be80-734bfc2c4a4b)
 
 ![loop](https://github.com/charlierobin/charlierobin/assets/10506323/45c0166a-eaad-4a92-9fc7-4a71901c0dad)
 
