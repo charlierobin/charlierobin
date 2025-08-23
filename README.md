@@ -62,7 +62,7 @@ I finished it enough of it that for years I’ve been happy with the result, but
 
 Ahhh, heady days: the late 1980s and the very early 1990s, System 6 becoming System 7 (and then staying that way for years and years whilst [Apple flushed one “new” OS project after another down the corporate toilet](https://en.wikipedia.org/wiki/Copland_(operating_system))).
 
-[MacUser magazine in the UK]([https://vintageapple.org/macuser/](https://en.wikipedia.org/wiki/MacUser)) used to publish shareware floppy disks (you kids stop your snickering at the back) and I’m sure it was on one of those disks that I first encountered the magic that was Oscar the Grouch, a System 6/System 7 Macintosh system extension originally created by by Eric Shapiro and Ken Hornak.
+[MacUser magazine in the UK]([https://vintageapple.org/macuser/](https://en.wikipedia.org/wiki/MacUser) used to publish shareware floppy disks (you kids stop your snickering at the back) and I’m sure it was on one of those disks that I first encountered the magic that was Oscar the Grouch, a System 6/System 7 Macintosh system extension originally created by by Eric Shapiro and Ken Hornak.
 
 So these two projects are my attempt to force back the remorseless forwards ticking of the hands of the clock:
 
@@ -107,6 +107,7 @@ So whilst I’d usually wholeheartedly subscribe to the philosophy of “if the 
 There’s so much stuff on the boil (and all so dependent on what I’m in the mood to work on — and what I have the time to work on) that it’s hard to curate or document in any meaningful fashion. A Spectre-clone, something inspired by the old Mac game Apache Strike, Crystal Quest, the old ZX Spectrum Game Jetpac, a pirates game, versions of Space Invaders done just to try out Apple’s SpriteKit with Microsoft Visual Studio/C#, versions of Asteroids, corporate screensavers, etc etc … Where will it all end?
 
 [🔗 Experiments, General Goofing Off & Other Dumpster Fires](https://charlierobin.com/standalone-video-gallery.html?video=gameplay-experiments.mp4)
+
 
 
 
