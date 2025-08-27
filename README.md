@@ -18,9 +18,9 @@ It allows the user to manage various “versions” of their Dock, and then to s
 
 Whilst this works fine on the OS it was designed for, macOS Catalina, I don’t think I’ve ever tested it on a subsequent version, so I kind of have a hunch that this app is long overdue for an overhaul.
 
-[A basic User Guide & Reference Manual](https://github.com/charlierobin/dockjuggler/blob/main/DockJuggler_User_Guide.pdf)
+[User Guide & Reference Manual](https://github.com/charlierobin/dockjuggler/blob/main/DockJuggler_User_Guide.pdf)
 
-## Find Missing iTunes/Music Tracks [🔗](https://github.com/charlierobin/list-missing-apple-music-files-swift)
+## Find Missing iTunes/Music Tracks [▶︎](https://github.com/charlierobin/list-missing-apple-music-files-swift)
 
 I don’t know what it is with my version of [Music](https://en.wikipedia.org/wiki/Music_(app)), but once in a while tracks just seem to “disappear”, ie: they are still listed in the browser, but when you try and play them, you get that annoying message about the file being missing, and would you like to try and locate it?
 
@@ -30,7 +30,7 @@ So I messed around writing a couple of command line apps (one written in Swift, 
 
 (Both to be run in the Terminal.)
 
-## Cleaning Up Unity Project Folders [🔗](https://github.com/charlierobin/clean-unity-projects)
+## Cleaning Up Unity Project Folders [▶︎](https://github.com/charlierobin/clean-unity-projects)
 
 Unity project folders get big — sometimes REALLY big — and given the infrequency with which I work on some of my Unity projects, I decided I needed a way of reclaiming the disk space from them by deleting all the temp stuff and yet keeping all the stuff required for re-opening and re-building the project in the future.
 
@@ -38,13 +38,13 @@ The result was this little Python app.
 
 There’s also a [Golang version](https://github.com/charlierobin/cleaning-unity-projects-using-go), done just for the fun of it. The organisation of the Go version is slightly crazy, so I guess I would recommend with sticking with the Python version running in the Terminal. Having said that, I have used the latter version a couple of times and it seemed happy enough doing its job.
 
-## Cinema 4D Export to Unity [🔗](https://github.com/charlierobin/cinema4d-to-unity)
+## Cinema 4D Export to Unity [▶︎](https://github.com/charlierobin/cinema4d-to-unity)
 
 Going all the way back 2011: a set of Python plug-ins for Cinema 4D that facilitate some slightly more structured (and convenient) ways of managing and getting meshes out of Maxon’s Cinema 4D and into Unity. (And in fact into any other app that can take FBX files.)
 
 The interaction between Cinema 4D and Unity has come along in leaps and bounds since back then, and I imagine a lot of people at this point stick with the official way it is done now … and yet for myself personally, I STILL find myself coming back to these plug-ins as the ideal way I want my modelling and meshing workflow to work. Go figure. Life moves in mysterious ways.
 
-## Small, Far Away [🔗](https://github.com/charlierobin/small-far-away)
+## Small, Far Away [▶︎](https://github.com/charlierobin/small-far-away)
 
 Another suite of Cinema 4D plug-ins from way back, initially inspired some of the level of detail functionality that I was using in [Autodesk Maya](https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=GUID-79C7A942-0547-4AC4-8A4D-DCAC4ABB1EF2).
 
@@ -52,7 +52,7 @@ Cinema 4D has subsequently acquired [some of its own native LOD (level of detail
 
 (And yes, obviously, these plug-ins are named courtesy of [Father Ted](https://www.youtube.com/watch?v=MMiKyfd6hA0).)
 
-## Let’s Do Launch [🔗](https://github.com/charlierobin/launcher)
+## Let’s Do Launch [▶︎](https://github.com/charlierobin/launcher)
 
 An app for managing "helper" launcher apps: you can drag apps to the left of the Finder Dock to make them persistent, and you can drag a folder to the right of the Dock to make it persistent there. So we Mac users have long been able to make ourselves a kind of "sub-menu" of apps by creating a folder of lesser used apps (either the apps themselves or aliases) and then dragging the folder to the right side of the Dock.
 
@@ -60,7 +60,7 @@ I wanted something a little different: custom icons on the left side of the Dock
 
 I finished it enough of it that for years I’ve been happy with the result, but there are a couple of areas where it needs work to count as finished. So along with **DockJuggler** I think this is another project that I’ve got to give a good going over/overhaul.
 
-## Oscar the Grouch [🔗](https://github.com/charlierobin/oscar-the-grouch-version-2)
+## Oscar the Grouch [▶︎](https://github.com/charlierobin/oscar-the-grouch-version-2)
 
 Ahhh, heady days: the late 1980s and the very early 1990s, System 6 becoming System 7 (and then staying that way for years and years whilst [Apple flushed one “new” OS project after another down the corporate toilet](https://en.wikipedia.org/wiki/Copland_(operating_system))).
 
@@ -82,7 +82,7 @@ Both constantly poll known (hidden) trash locations to get an idea of when a tra
 
 [FSEventStream for Xojo apps](https://github.com/charlierobin/xojo-FSEventStream) was the start of replacing that with something a little better.
 
-## Flying Toasters [🔗](https://github.com/charlierobin/flying-toasters)
+## Flying Toasters [▶︎](https://github.com/charlierobin/flying-toasters)
 
 Another software trip down memory lane, this one a re-hashing of the old Flying Toasters screensaver from the [Berkeley Systems After Dark](https://en.wikipedia.org/wiki/After_Dark_(software)) collection.
 
@@ -90,7 +90,7 @@ I started to re-do the toasters’ wings and flapping animations, which in retro
 
 Still, it is what is, so what we have here is a straightforward [screensaver version](https://github.com/charlierobin/flying-toasters) (Intel only, though, and with added TIE fighters and X-Wing fighters for some reason), a [“live desktop” version](https://github.com/charlierobin/flying-toasters-live-desktop-xojo-opengl) (which over the years I’ve come to prefer), and [another desktop version](https://github.com/charlierobin/flying-toasters-original) which I think was just a test of some kind.
 
-## Unity Input Manager Editor [🔗](https://github.com/charlierobin/unity-input-manager)
+## Unity Input Manager Editor [▶︎](https://github.com/charlierobin/unity-input-manager)
 
 Back in the days before Unity revamped handling user input, I found managing (and even remembering how) all the different input axes options and setting a real pain in the you-know-what.
 
@@ -98,7 +98,7 @@ So I wrote this app to help me maintain some simple input axis template librarie
 
 I imagine these days everybody is using the new input packages, but even so, for smaller projects and even just when messing around, I still find this app useful, so I cleaned it up a little and put it up here.
 
-## Colour Picker for Xojo Apps [🔗](https://github.com/charlierobin/xojo-simple-colour-picker-1)
+## Colour Picker for Xojo Apps [▶︎](https://github.com/charlierobin/xojo-simple-colour-picker-1)
 
 What can I say? I found Xojo’s support for the standard macOS colour picker diabolical, and I also found that I really didn’t like the standard Apple colour picker very much either. Even just thinking about it all makes me start to grind my teeth a wee bit.
 
@@ -108,7 +108,8 @@ So whilst I’d usually wholeheartedly subscribe to the philosophy of “if the 
 
 There’s so much stuff on the boil (and all so dependent on what I’m in the mood to work on — and what I have the time to work on) that it’s hard to curate or document in any meaningful fashion. A Spectre-clone, something inspired by the old Mac game Apache Strike, Crystal Quest, the old ZX Spectrum Game Jetpac, a pirates game, versions of Space Invaders done just to try out Apple’s SpriteKit with Microsoft Visual Studio/C#, versions of Asteroids, corporate screensavers, etc etc … Where will it all end?
 
-[🔗 Experiments, General Goofing Off & Other Dumpster Fires](https://charlierobin.com/standalone-video-gallery.html?video=gameplay-experiments.mp4)
+[▶︎ Experiments, General Goofing Off & Other Dumpster Fires](https://charlierobin.com/standalone-video-gallery.html?video=gameplay-experiments.mp4)
+
 
 
 
