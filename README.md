@@ -18,6 +18,8 @@ It allows the user to manage various “versions” of their Dock, and then to s
 
 Whilst this works fine on the OS it was designed for, macOS Catalina, I don’t think I’ve ever tested it on a subsequent version, so I kind of have a hunch that this app is long overdue for an overhaul.
 
+[A basic User Guide & Reference Manual](https://github.com/charlierobin/dockjuggler/DockJuggler_User_Guide.pdf)
+
 ## Find Missing iTunes/Music Tracks [🔗](https://github.com/charlierobin/list-missing-apple-music-files-swift)
 
 I don’t know what it is with my version of [Music](https://en.wikipedia.org/wiki/Music_(app)), but once in a while tracks just seem to “disappear”, ie: they are still listed in the browser, but when you try and play them, you get that annoying message about the file being missing, and would you like to try and locate it?
@@ -107,6 +109,7 @@ So whilst I’d usually wholeheartedly subscribe to the philosophy of “if the 
 There’s so much stuff on the boil (and all so dependent on what I’m in the mood to work on — and what I have the time to work on) that it’s hard to curate or document in any meaningful fashion. A Spectre-clone, something inspired by the old Mac game Apache Strike, Crystal Quest, the old ZX Spectrum Game Jetpac, a pirates game, versions of Space Invaders done just to try out Apple’s SpriteKit with Microsoft Visual Studio/C#, versions of Asteroids, corporate screensavers, etc etc … Where will it all end?
 
 [🔗 Experiments, General Goofing Off & Other Dumpster Fires](https://charlierobin.com/standalone-video-gallery.html?video=gameplay-experiments.mp4)
+
 
 
 
