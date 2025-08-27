@@ -66,7 +66,7 @@ Ahhh, heady days: the late 1980s and the very early 1990s, System 6 becoming Sys
 
 [MacUser magazine in the UK](https://en.wikipedia.org/wiki/MacUser) used to publish shareware floppy disks (you kids stop your snickering at the back) and I’m sure it was on one of those disks that I first encountered the magic that was Oscar the Grouch, a System 6/System 7 Macintosh system extension originally created by by Eric Shapiro and Ken Hornak.
 
-So these two projects are my attempt to force back the remorseless forwards ticking of the hands of the clock:
+So these two projects are my attempt to force back the remorseless ticking of the clock and relive the days of youth:
 
 [Version 1](https://github.com/charlierobin/oscar-the-grouch-version-1) was my first crack at it. Oscar doesn’t come out of the trash as such: the idea is that you position and scale him so that he’s just off screen to the bottom right of your Dock, and then, when you empty your trash, he appears from off screen and does his thing.
 
@@ -86,13 +86,13 @@ Both constantly poll known (hidden) trash locations to get an idea of when a tra
 
 Another software trip down memory lane, this one a re-hashing of the old Flying Toasters screensaver from the [Berkeley Systems After Dark](https://en.wikipedia.org/wiki/After_Dark_(software)) collection.
 
-I started to re-do the toasters’ wings and flapping animations, which in retrospect I now think was a mistake: I should have just stuck with the original graphics (like a few of the other versions out there did, for instance [Robert Venturini’s](https://github.com/robertventurini/FlyingToasters) much better one).
+I started to re-do the toasters’ wings and flapping animations, which in retrospect I now think was a mistake: I should have just stuck with the original graphics (like a few of the other versions out there did, for instance [Robert Venturini’s](https://github.com/robertventurini/FlyingToasters) much better version).
 
-Still, it is what is, so what we have here is a straightforward [screensaver version](https://github.com/charlierobin/flying-toasters) (Intel only, though, and with added TIE fighters and X-Wing fighters for some reason), a [“live desktop” version](https://github.com/charlierobin/flying-toasters-live-desktop-xojo-opengl) (which over the years I’ve come to prefer), and [another desktop version](https://github.com/charlierobin/flying-toasters-original) which I think was just a test of some kind.
+Still, it is what is: so what we have here is a straightforward [screensaver version](https://github.com/charlierobin/flying-toasters) (Intel only, though, and with added TIE fighters and X-Wing fighters for some reason), a [“live desktop” version](https://github.com/charlierobin/flying-toasters-live-desktop-xojo-opengl) (which over the years I’ve come to prefer), and [another desktop version](https://github.com/charlierobin/flying-toasters-original) which I think was just a test of some kind.
 
 ## Unity Input Manager Editor [▶︎](https://github.com/charlierobin/unity-input-manager)
 
-Back in the days before Unity revamped handling user input, I found managing (and even remembering how) all the different input axes options and setting a real pain in the you-know-what.
+Back in the days before Unity revamped handling user input, I found managing (and even just remembering) all the different input axes options and settings a real pain in the you-know-what.
 
 So I wrote this app to help me maintain some simple input axis template libraries, and to help copy/paste input axes between different Unity projects or into new projects.
 
@@ -100,15 +100,16 @@ I imagine these days everybody is using the new input packages, but even so, for
 
 ## Colour Picker for Xojo Apps [▶︎](https://github.com/charlierobin/xojo-simple-colour-picker-1)
 
-What can I say? I found Xojo’s support for the standard macOS colour picker diabolical, and I also found that I really didn’t like the standard Apple colour picker very much either. Even just thinking about it all makes me start to grind my teeth a wee bit.
+What can I say? I found Xojo’s support for the standard macOS colour picker diabolical, and I also found that I really didn’t like the standard Apple system colour picker very much either. Even just thinking about it all makes me start to grind my teeth a wee bit.
 
-So whilst I’d usually wholeheartedly subscribe to the philosophy of “if the system provides one, and the users are used to it, don’t go confusing them with your own version”, in this case I have started to roll my own version.
+So whilst I usually wholeheartedly subscribe to the philosophy of “if the system provides one, and the users are used to it, don’t go confusing them with your own version”, in this case I have started to roll my own version and I’m pretty unrepentant about it.
 
 ## Various Games, Screensavers, How-Do-You-Do-It-Example-Projects etc
 
 There’s so much stuff on the boil (and all so dependent on what I’m in the mood to work on — and what I have the time to work on) that it’s hard to curate or document in any meaningful fashion. A Spectre-clone, something inspired by the old Mac game Apache Strike, Crystal Quest, the old ZX Spectrum Game Jetpac, a pirates game, versions of Space Invaders done just to try out Apple’s SpriteKit with Microsoft Visual Studio/C#, versions of Asteroids, corporate screensavers, etc etc … Where will it all end?
 
 [Experiments, General Goofing Off & Other Dumpster Fires](https://charlierobin.com/standalone-video-gallery.html?video=gameplay-experiments.mp4)
+
 
 
 
